@@ -95,7 +95,7 @@ This creates a variable called link that will be placed inside the html div with
 
 ### The end
 
-So that about sums it up. Pretty simple, all the code is right there for you to create this extension and use it, add to it make it better etc etc. If there's any questions or if you need some help let me know below. I will post the code to this on github in the next few days. [link](https://github.com/MikeCase/sharelinks)
+So that about sums it up. Pretty simple, all the code is right there for you to create this extension and use it, add to it make it better etc etc. If there's any questions or if you need some help let me know below. I will post the code to this on github in the next few days. [Github repository for tutorial](https://github.com/MikeCase/sharelinks)
 
 Finally added a link to the project on github... That only took forever. If you want to clone the repository as a starting point for your own extension, feel free to do so.
 Here's how to do that.
